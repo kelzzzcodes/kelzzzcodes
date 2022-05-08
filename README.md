@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kelzzz_chukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelzzz_chukwu" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kelechi-otugbuali-818ab3204/" target="blank"><img align="center" src="https://www.google.com/search?q=linkedin+image&tbm=isch&source=iu&ictx=1&vet=1&fir=J-T_LQEinoJGaM%252C9EJgVPS-nC_9hM%252C_%253BY7cRQM103LNiMM%252Cg8srrRYjQ5X80M%252C_%253BhRVO_EXSa77khM%252CI9QUtTnUHKwTGM%252C_%253BOkEXDa0WRe7EtM%252CI9QUtTnUHKwTGM%252C_%253BeCqX3dlnlYGiEM%252CZAat9_aazDbyXM%252C_%253BeZhkN9NwNWP6vM%252CYvoKnije3nifwM%252C_%253BcrkWXcUsBtemHM%252C3FpbkJ-6G3UCBM%252C_%253Bnt5VX68cLIpJFM%252Ck0w20o5MWVtziM%252C_%253BernLeyzUCwyXGM%252CE_mMXX7n6YgJyM%252C_%253B7YNH43SDG83ELM%252CuFry9PKgE3OqfM%252C_%253B9SEG3oUjZjcR6M%252CZLUBshK7GvpsRM%252C_%253BR6Lh-RlWXDjiNM%252CMhY7XSy7mky-vM%252C_%253Bd-YmeDnleosT8M%252C67x4Gk-tDo_ThM%252C_&usg=AI4_-kSEaPdQjG09w_bddxTYIiSRe3gPvQ&sa=X&sqi=2&ved=2ahUKEwjL1Kfm5dD3AhUXwjgGHSPUDwQQ9QF6BAgrEAE#imgrc=hRVO_EXSa77khM" alt="kelzzz_chukwu" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kelechi-otugbuali-818ab3204/" target="blank"><img align="center" src="" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
