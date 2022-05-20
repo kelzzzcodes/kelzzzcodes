@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kelzzzcodes.github.io/](https://kelzzzcodes.github.io/)
 
-- 📫 How to reach me **hilakechi@gmail.com**
+- 📫 How to reach me **kelzzzcodes@gmail.com**
 
 - ⚡ Fun fact **The guy that lights up the room in a unique way**
 
